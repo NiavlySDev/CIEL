@@ -4,3 +4,6 @@
 [submodule "gestion-temperature"]
 	path = gestion-temperature
 	url = https://github.com/NiavlySDev/gestion-temperature.git
+[submodule "trv23"]
+	path = trv23
+	url = https://github.com/NiavlySDev/trv23
