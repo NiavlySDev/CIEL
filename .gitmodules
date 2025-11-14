@@ -1,0 +1,6 @@
+[submodule "GestionTemperatureMiniProjet"]
+	path = GestionTemperatureMiniProjet
+	url = https://github.com/NiavlySDev/GestionTemperatureMiniProjet.git
+[submodule "gestion-temperature"]
+	path = gestion-temperature
+	url = https://github.com/NiavlySDev/gestion-temperature.git
